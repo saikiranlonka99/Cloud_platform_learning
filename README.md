@@ -1,6 +1,7 @@
 Cloud_platform_learning
 Azure AWS Cloud Learning
 
+
 Documentation of cloud tasks and projects implemented using Amazon Web Services and Microsoft Azure, covering cloud infrastructure, networking, storage, and security service
 
 This repository contains my learning notes and hands on practice related to cloud platforms. The goal of this repository is to document my learning journey and build a strong foundation in cloud technologies.
@@ -51,3 +52,25 @@ Microsoft Azure official documentation
 AWS official documentation
 Online cloud training courses
 Hands-on practice using the Azure Portal and AWS Management Console.
+About
+Documentation of cloud tasks and projects implemented using Amazon Web Services and Microsoft Azure, covering cloud infrastructure, networking, storage, and security services.
+
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+1
+@saikiranlonka
+saikiranlonka
+Footer
